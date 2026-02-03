@@ -1,6 +1,6 @@
 # This is a vibe coded project when testing Claude code. 
 
-### 🦎 The Chameleon - iOS Game App
+### 🦎 The Chameleon
 
 A digital implementation of the popular social deduction party game "The Chameleon" for iOS devices.
 
